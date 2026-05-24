@@ -17,7 +17,7 @@
 * **Metodología de Cálculo:** Eficacia basada en el cociente entre tiempos estándar (definidos por tipo de recorrido: Cubeta, Bolsita, Pallet) y el tiempo real registrado vía WMS Cygnus.
 * **Impacto Logístico:** Permite la detección inmediata de anomalías entre turnos y la evaluación objetiva de mejoras operativas.
 
-![Performance Picking](PBI - Performance Mensual de Picking.jpeg)
+![Performance Picking](PBI%20-%20Performance%20Mensual%20de%20Picking.jpeg)
 
 ---
 *Nota: Los datos expuestos han sido anonimizados por confidencialidad.*
