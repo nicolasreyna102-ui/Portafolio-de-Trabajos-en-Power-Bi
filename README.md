@@ -24,7 +24,7 @@ Desarrollé un tablero de control en Power BI que centraliza la data operativa, 
 **Seguimiento Evolutivo:** Gráficos de tendencias temporales para evaluar la productividad individual y grupal a lo largo del tiempo.
 
 ![Performance Mensual de Picking](PBI%20-%20Performance%20Mensual%20de%20Picking.jpeg)
-![Performance del Turno Mañana de Picking]
-![Semaforo Operativo de Picking]
+![Performance del Turno Mañana de Picking](PBI%20-%20Performance%20Turno%20Mañana.jpeg)
+![Semaforo Operativo de Picking](PBI%20-%20Semaforo%20Operativo%20de%20PK.jpeg)
 ---
 *Nota: Los datos expuestos han sido anonimizados por confidencialidad.*
