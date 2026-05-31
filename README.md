@@ -11,13 +11,20 @@
 ## Proyectos Destacados
 
 ### 1) Optimización y Monitoreo de Performance de Picking
-**Objetivo:** Medir y estandarizar la eficiencia operativa del proceso de picking en el deposito para detectar cuellos de botella y medir el impacto de mejoras continuas.
 
-**Descripción Técnica:**
-* **Metodología de Cálculo:** Eficacia basada en el cociente entre tiempos estándar (definidos por tipo de recorrido: Cubeta, Bolsita, Pallet) y el tiempo real registrado vía WMS Cygnus.
-* **Impacto Logístico:** Permite la detección inmediata de anomalías entre turnos y la evaluación objetiva de mejoras operativas.
+**Contexto del Problema:** La falta de visibilidad en tiempo real sobre la productividad operativa impedía identificar desvíos críticos entre la ejecución real y los tiempos estándar definidos. Esto dificultaba la toma de decisiones para balancear cargas de trabajo y optimizar los recursos en el depósito.
 
-![Performance Picking](PBI%20-%20Performance%20Mensual%20de%20Picking.jpeg)
+**Solución Técnica:**
+Desarrollé un tablero de control en Power BI que centraliza la data operativa, permitiendo:
 
+**Análisis Comparativo:** Cálculo automático de la Performance mediante la relación entre tiempos estándar (por tipo de recorrido: Pallet, Bolsita, Cubeta) vs. tiempos reales registrados por el WMS.
+
+**Monitoreo por Turnos:** Visualización segmentada por Depósito y Turno para una rápida detección de cuellos de botella.
+
+**Seguimiento Evolutivo:** Gráficos de tendencias temporales para evaluar la productividad individual y grupal a lo largo del tiempo.
+
+![Performance Mensual de Picking](PBI%20-%20Performance%20Mensual%20de%20Picking.jpeg)
+![Performance del Turno Mañana de Picking]
+![Semaforo Operativo de Picking]
 ---
 *Nota: Los datos expuestos han sido anonimizados por confidencialidad.*
