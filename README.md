@@ -58,4 +58,4 @@ Desarrollé un tablero de control en **Power BI** para el monitoreo integral de 
 * **Categorización de Prioridades:** Implementación de un sistema de semaforización (OK, A Revisar, A Corregir, Urgentes) que permite al equipo logístico priorizar la corrección de datos maestros sobre los artículos de mayor impacto negativo[cite: 1].
 * **Impacto Operativo:** Reducción de la carga administrativa en el depósito mediante la visibilidad clara de desequilibrios entre la demanda real y la capacidad de las posiciones[cite: 1].
 
-![Monitoreo de Reaprovisionamiento](image_3ed262.png)
+![Monitoreo de Olas de Reaprovisionamiento](PBI%20-%20Monitoreo%20de%20Olas%20de%20Reaprovisionamiento.png)
