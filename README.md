@@ -28,3 +28,23 @@ Desarrollé un tablero de control en Power BI que centraliza la data operativa, 
 ![Semaforo Operativo de Picking](PBI%20-%20Semaforo%20Operativo%20de%20PK.jpeg)
 ---
 *Nota: Los datos expuestos han sido anonimizados por confidencialidad.*
+
+
+### 2) Optimización de Slotting y Capacidad de Almacenamiento
+
+**Contexto del Problema:**
+La asignación ineficiente de mercadería en las posiciones de picking generaba cuellos de botella operativos y subutilización de la capacidad del depósito. No existía una visibilidad clara sobre la relación entre el volumen del artículo, la capacidad de la posición asignada y la demanda real.
+
+**Solución Técnica:**
+Desarrollé un tablero de control en **Power BI** para el monitoreo integral de *slotting*, integrando datos de inventario y demanda, permitiendo:
+
+* **Clasificación por Estado:** Categorización automática de artículos en "OK", "A Revisar", "A Corregir" y "Sobredimensionado", facilitando la priorización de tareas (ver image_3f4d29.png).
+* **Análisis de Capacidad:** Evaluación del ajuste entre la capacidad de la unidad de picking (UPF en $cm^3$) y la demanda diaria, permitiendo identificar rápidamente desequilibrios antes de que impacten en la productividad.
+* **Filtros de Gestión:** Implementación de segmentadores por política de abastecimiento y código de material para una gestión granular del depósito.
+
+**Impacto Operativo:**
+* **Proactividad:** Permite al supervisor detectar y corregir errores de ubicación antes de que afecten la producción.
+* **Eficiencia del Espacio:** Optimización directa del uso del depósito al identificar posiciones sobredimensionadas o críticas.
+* **Visibilidad:** Monitoreo en tiempo real de los niveles de servicio y cumplimiento del *slotting* planificado.
+
+**Tecnologías:** Power BI, Modelado de Datos, DAX, Gestión de Inventarios, KPIs Logísticos.
