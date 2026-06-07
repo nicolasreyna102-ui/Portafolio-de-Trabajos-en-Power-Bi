@@ -51,11 +51,11 @@ Desarrollé un tablero de control en **Power BI** para el monitoreo integral de 
 **Tecnologías:** Power BI, Modelado de Datos, DAX, Gestión de Inventarios, KPIs Logísticos.
 
 ## 3) Optimización de Olas de Reaprovisionamiento
-**Objetivo:** Mitigar la carga laboral extra y los cuellos de botella operativos originados por configuraciones ineficientes en las ubicaciones de *picking*[cite: 1].
+**Objetivo:** Mitigar la carga laboral extra y los cuellos de botella operativos originados por configuraciones ineficientes en las ubicaciones de *picking*.
 
 **Descripción Técnica:**
-* **Análisis de Causa Raíz:** El tablero identifica artículos con configuraciones de reaprovisionamiento subóptimas, los cuales generaban múltiples reposiciones semanales innecesarias, impactando directamente en los tiempos de salida de pedidos[cite: 1].
-* **Categorización de Prioridades:** Implementación de un sistema de semaforización (OK, A Revisar, A Corregir, Urgentes) que permite al equipo logístico priorizar la corrección de datos maestros sobre los artículos de mayor impacto negativo[cite: 1].
-* **Impacto Operativo:** Reducción de la carga administrativa en el depósito mediante la visibilidad clara de desequilibrios entre la demanda real y la capacidad de las posiciones[cite: 1].
+* **Análisis de Causa Raíz:** El tablero identifica artículos con configuraciones de reaprovisionamiento subóptimas, los cuales generaban múltiples reposiciones semanales innecesarias, impactando directamente en los tiempos de salida de pedidos.
+* **Categorización de Prioridades:** Implementación de un sistema de semaforización (OK, A Revisar, A Corregir, Urgentes) que permite al equipo logístico priorizar la corrección de datos maestros sobre los artículos de mayor impacto negativo.
+* **Impacto Operativo:** Reducción de la carga administrativa en el depósito mediante la visibilidad clara de desequilibrios entre la demanda real y la capacidad de las posiciones.
 
-![Monitoreo de Olas de Reaprovisionamiento](PBI%20-%20Monitoreo%20de%20Olas%20de%20Reaprovisionamiento.png)
+![Monitoreo de Olas de Reaprovisionamiento](PBI%20-%20Monitoreo%20de%20Olas%20de%20Reaprovisionamiento.jpeg)
