@@ -68,6 +68,6 @@ Desarrollé un tablero de control en **Power BI** para el monitoreo integral de 
 * **Estandarización y Control:** Cada resultado de líneas ingresadas por proveedor en una fecha determinada se contrasta contra un estándar previamente validado. El tablero traduce esto en un sistema visual de estados (Aprobado, Advertencia, Desvío) por operario y proveedor.
 * **Visibilidad de Tendencias:** Incorpora un análisis evolutivo de la última semana y KPIs globales (Proveedores y SKUs ingresados) que facilitan la identificación rápida de cuellos de botella y la redistribución equilibrada de las tareas del personal.
 
-![Performance de Recepción](PBI%20-%20Performance%20de%20Recepcion.png)
+![Performance de Recepción](PBI%20-%20Performance%20de%20Recepcion.jpeg)
 
 
