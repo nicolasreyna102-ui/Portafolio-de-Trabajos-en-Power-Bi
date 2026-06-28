@@ -59,3 +59,15 @@ Desarrollé un tablero de control en **Power BI** para el monitoreo integral de 
 * **Impacto Operativo:** Reducción de la carga administrativa en el depósito mediante la visibilidad clara de desequilibrios entre la demanda real y la capacidad de las posiciones.
 
 ![Monitoreo de Olas de Reaprovisionamiento](PBI%20-%20Monitoreo%20de%20Olas%20de%20Reaprovisionamiento.jpeg)
+
+## 4) Monitoreo y Análisis de Performance en Recepción
+**Objetivo:** Supervisar la eficiencia del proceso de recepción de proveedores, permitiendo un seguimiento diario y ágil de la productividad del equipo para detectar desvíos y optimizar la carga de trabajo.
+
+**Descripción Técnica:**
+* **Aislamiento de Variables Operativas:** La métrica de performance evalúa estrictamente el tiempo comprendido entre el inicio y el cierre de la ASN (Advanced Shipping Notice) en el sistema Cygnus. Al excluir deliberadamente tiempos externos (descarga, organización en *stage in* o demoras logísticas previas), se logra medir con exactitud la eficiencia del proceso administrativo de carga.
+* **Estandarización y Control:** Cada resultado de líneas ingresadas por proveedor en una fecha determinada se contrasta contra un estándar previamente validado. El tablero traduce esto en un sistema visual de estados (Aprobado, Advertencia, Desvío) por operario y proveedor.
+* **Visibilidad de Tendencias:** Incorpora un análisis evolutivo de la última semana y KPIs globales (Proveedores y SKUs ingresados) que facilitan la identificación rápida de cuellos de botella y la redistribución equilibrada de las tareas del personal.
+
+![Performance de Recepción](PBI%20-%20Performance%20de%20Recepcion.png)
+
+
